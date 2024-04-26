@@ -30,7 +30,7 @@ git -v
 创建成功后会有一个隐藏文件夹.git
 
 **克隆仓库**
-git clone http地址
+git clone http地址 .git
 
 ### git结构
 工作区(working directory) .git 所在目录，文件区  
