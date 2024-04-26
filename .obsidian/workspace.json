@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b0fa5dc466584b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真的会备份咩.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "begin with。。。/git.md",
+                "file": "真的会备份咩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "begin with。。。/git.md",
+                "file": "真的会备份咩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "begin with。。。/git.md"
+                "file": "真的会备份咩.md"
               }
             }
           }
@@ -157,12 +170,14 @@
       "media-extended:Open media": true
     }
   },
-  "active": "3768a1bb916dae5d",
+  "active": "b0fa5dc466584b28",
   "lastOpenFiles": [
-    "begin with。。。/obsidian.md",
+    "待TBA(娱乐版.md",
+    "真的会备份咩.md",
     "begin with。。。/markdown.md",
-    "大三下/无线网络（简单版.md",
+    "begin with。。。/obsidian.md",
     "begin with。。。/git.md",
+    "大三下/无线网络（简单版.md",
     "begin with。。。/碎碎念.md",
     "下载安装配置/ob目录.md",
     "下载安装配置/vs目录.md",
@@ -177,7 +192,6 @@
     "每日随手/2024-01-05.md",
     "每日随手/2024-01-20.md",
     "待TBA(学习版.md",
-    "待TBA(娱乐版.md",
     "test/test.md",
     "每日随手/安装环境（复习linux.md",
     "每日随手/2024-03-21.md",
