@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "87134ec77cf0c624",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa93ef3b38a21d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3768a1bb916dae5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "begin with。。。/git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e70cc633bad34a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c37fbc2809015f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e083523bbb5ac58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fc941fa73eacbe9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "718bc4d536f73408",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f2ebde39a529336",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b12ad73e2e801180",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f8d2511544078b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dadf2cbccabda09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "begin with。。。/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e65381edcee46df6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "begin with。。。/git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dbe8ea8d2bde856",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0729f82803d94cee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "begin with。。。/git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": true
+    }
+  },
+  "active": "3768a1bb916dae5d",
+  "lastOpenFiles": [
+    "begin with。。。/obsidian.md",
+    "begin with。。。/markdown.md",
+    "大三下/无线网络（简单版.md",
+    "begin with。。。/git.md",
+    "begin with。。。/碎碎念.md",
+    "下载安装配置/ob目录.md",
+    "下载安装配置/vs目录.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "每日随手/2024-04-24.md",
+    "大三下/无线网络（cisco.md",
+    "大三下/云计算1.md",
+    "大三下/SDN.md",
+    "大三下/机器学习.md",
+    "大三下/sdn实验1.md",
+    "每日随手/2024-01-05.md",
+    "每日随手/2024-01-20.md",
+    "待TBA(学习版.md",
+    "待TBA(娱乐版.md",
+    "test/test.md",
+    "每日随手/安装环境（复习linux.md",
+    "每日随手/2024-03-21.md",
+    "大三下/SDN(放弃了哈哈.md",
+    "屏幕截图 2024-03-17 185829.png",
+    "下载安装配置/教学/前端/nodejs.md",
+    "下载安装配置/教学/server/apache.md",
+    "下载安装配置/教学/python/django.md",
+    "大三下",
+    "每日随手/2024-02-27.md",
+    "下载安装配置/教学/server",
+    "下载安装配置/教学/vscode",
+    "下载安装配置/教学/java",
+    "教学/前端",
+    "教学",
+    "下载安装配置/教学/前端",
+    "Excalidraw",
+    "每日随手",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "教学/python",
+    "Pasted image 20231231133221.png",
+    "begin with。。。/未命名.canvas"
+  ]
+}
