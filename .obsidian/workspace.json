@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日随手/2024-04-24.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日随手/2024-04-24.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日随手/2024-04-24.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日随手/2024-04-24.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,6 +172,8 @@
   },
   "active": "b0fa5dc466584b28",
   "lastOpenFiles": [
+    "待TBA(学习版.md",
+    "每日随手/2024-04-24.md",
     "大三下/sdn实验1.md",
     "大三下/SDN.md",
     "begin with。。。/git.md",
@@ -188,11 +190,9 @@
     "下载安装配置/vs目录.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "每日随手/2024-04-24.md",
     "大三下/云计算1.md",
     "每日随手/2024-01-05.md",
     "每日随手/2024-01-20.md",
-    "待TBA(学习版.md",
     "test/test.md",
     "每日随手/安装环境（复习linux.md",
     "每日随手/2024-03-21.md",
