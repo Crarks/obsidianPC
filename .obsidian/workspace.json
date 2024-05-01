@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正经学习/算法.md",
+                "file": "正经学习/unity.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正经学习/算法.md",
+                "file": "正经学习/unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正经学习/算法.md",
+                "file": "正经学习/unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正经学习/算法.md"
+                "file": "正经学习/unity.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "1f37674e28422793",
   "lastOpenFiles": [
-    "下载安装配置/ob目录.md",
     "正经学习/算法.md",
+    "正经学习/unity.md",
+    "下载安装配置/ob目录.md",
     "正经学习",
     "begin with。。。/obsidian.md",
     "begin with。。。/碎碎念.md",
@@ -201,7 +202,6 @@
     "大三下/SDN(放弃了哈哈.md",
     "屏幕截图 2024-03-17 185829.png",
     "下载安装配置/教学/前端/nodejs.md",
-    "下载安装配置/教学/server/apache.md",
     "大三下",
     "下载安装配置/教学/server",
     "下载安装配置/教学/vscode",
