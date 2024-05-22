@@ -22,5 +22,8 @@
 3. 再controllers interface添加vlan接口
 4. 添加vlan，注意几个enable（没配radius的WPA2-Enterprise安全策略
 
+
+登不上网页的话好像是因为wlc-pt这个型号的问题,不能访问啥的
+[参考](https://learningnetwork.cisco.com/s/question/0D53i00001OEtFcCAL/how-to-fix-the-server-reset-connection-error-in-wlc)
 呵呵 b溃了，不做了呵呵
 总之再要做的话不管vlan，直接先做radius和aaa脸上sta，就跟上面有一个参考做

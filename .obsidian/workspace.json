@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日随手/2024-05-01.md",
+                "file": "大三下/无线网络（cisco.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "e0e13517e0e1fe42",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://blog.csdn.net/2302_78039953/article/details/135960548"
               }
             }
           }
@@ -77,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b12ad73e2e801180",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日随手/2024-05-01.md",
+                "file": "大三下/无线网络（cisco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日随手/2024-05-01.md",
+                "file": "大三下/无线网络（cisco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日随手/2024-05-01.md"
+                "file": "大三下/无线网络（cisco.md"
               }
             }
           }
@@ -159,11 +170,12 @@
   },
   "active": "f1964b269e256960",
   "lastOpenFiles": [
+    "大三下/无线网络（cisco.md",
+    "每日随手/2024-05-01.md",
     "正经学习/算法.md",
     "正经学习/前端参考.md",
     "正经学习/unity.md",
     "每日随手/2024-04-24.md",
-    "每日随手/2024-05-01.md",
     "大三下/sdn实验1.md",
     "大三下/SDN.md",
     "下载安装配置/ob目录.md",
@@ -176,7 +188,6 @@
     "待TBA(娱乐版.md",
     "大三下/机器学习.md",
     "真的会备份咩.md",
-    "大三下/无线网络（cisco.md",
     "begin with。。。/markdown.md",
     "大三下/无线网络（简单版.md",
     "下载安装配置/vs目录.md",
