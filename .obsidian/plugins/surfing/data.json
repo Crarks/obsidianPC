@@ -44,28 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "e0e13517e0e1fe42",
-      "parent": 0,
-      "droppable": true,
-      "text": "在 WLC上配置WPA2-Enterprise WLAN_packet tracer - 在 wlc上配置wpa2-enterprise wlan-CSDN博客",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "a750fb2ee4a919b5",
-      "parent": 0,
-      "droppable": true,
-      "text": "在 WLC上配置WPA2-Enterprise WLAN_packet tracer - 在 wlc上配置wpa2-enterprise wlan-CSDN博客",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
