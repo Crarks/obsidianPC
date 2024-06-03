@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a138f1a2c34bc4a1",
+        "id": "14d76f59222b7303",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ed22ae6525ea48",
+            "id": "a502fefe341c720b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日随手/无线网络课设.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e259134bd585ef60",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://blog.csdn.net/qq_45959697/article/details/124180639?ops_request_misc=%7B%22request%5Fid%22%3A%22171392133516800184147822%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=171392133516800184147822&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124180639-null-null.142^v100^pc_search_result_base5&utm_term=ensp综合组网实验&spm=1018.2226.3001.4187"
+                "url": "https://blog.csdn.net/Sakura0156/article/details/120400610?spm=1001.2014.3001.5506"
               }
             }
           }
@@ -75,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b12ad73e2e801180",
@@ -92,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日随手/无线网络课设.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日随手/无线网络课设.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "每日随手/无线网络课设.md"
+              }
             }
           }
         ],
@@ -152,16 +167,17 @@
       "media-extended:Open media": true
     }
   },
-  "active": "e0ed22ae6525ea48",
+  "active": "a502fefe341c720b",
   "lastOpenFiles": [
     "每日随手/无线网络课设.md",
+    "大三下/sdn实验1.md",
+    "begin with。。。/git.md",
+    "大三下/机器学习.md",
     "每日随手/机器学习应试版.md",
     "每日随手/2024-04-24.md",
     "大三下/SDN.md",
-    "大三下/sdn实验1.md",
     "大三下/云计算1.md",
     "大三下/无线网络（cisco.md",
-    "大三下/机器学习.md",
     "未命名.canvas",
     "每日随手/2024-05-01.md",
     "正经学习/算法.md",
@@ -171,7 +187,6 @@
     "正经学习",
     "begin with。。。/obsidian.md",
     "begin with。。。/碎碎念.md",
-    "begin with。。。/git.md",
     "README.md",
     "待TBA(学习版.md",
     "待TBA(娱乐版.md",
