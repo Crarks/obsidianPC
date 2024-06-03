@@ -18,16 +18,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e259134bd585ef60",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://blog.csdn.net/Sakura0156/article/details/120400610?spm=1001.2014.3001.5506"
-              }
-            }
           }
         ]
       }
@@ -87,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b12ad73e2e801180",
