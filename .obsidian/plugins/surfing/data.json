@@ -44,17 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "9534d892de30a0d1",
-      "parent": 0,
-      "droppable": true,
-      "text": "ENSP之综合实验_ensp综合实验-CSDN博客",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
