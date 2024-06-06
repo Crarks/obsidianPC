@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "每日随手/无线网络课设.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "c92e393b20cdd102",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://blog.csdn.net/m0_46179473/article/details/136125401"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "a502fefe341c720b",
+  "active": "c92e393b20cdd102",
   "lastOpenFiles": [
     "每日随手/无线网络课设.md",
     "大三下/sdn实验1.md",
