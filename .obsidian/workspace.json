@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日随手/无线网络课设.md",
+                "file": "每日随手/2024-04-24.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b12ad73e2e801180",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日随手/无线网络课设.md",
+                "file": "每日随手/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日随手/无线网络课设.md",
+                "file": "每日随手/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日随手/无线网络课设.md"
+                "file": "每日随手/2024-04-24.md"
               }
             }
           }
@@ -160,17 +159,17 @@
   },
   "active": "a502fefe341c720b",
   "lastOpenFiles": [
+    "每日随手/2024-05-01.md",
+    "每日随手/机器学习应试版.md",
     "每日随手/无线网络课设.md",
     "大三下/sdn实验1.md",
     "begin with。。。/git.md",
     "大三下/机器学习.md",
-    "每日随手/机器学习应试版.md",
     "每日随手/2024-04-24.md",
     "大三下/SDN.md",
     "大三下/云计算1.md",
     "大三下/无线网络（cisco.md",
     "未命名.canvas",
-    "每日随手/2024-05-01.md",
     "正经学习/算法.md",
     "正经学习/前端参考.md",
     "正经学习/unity.md",

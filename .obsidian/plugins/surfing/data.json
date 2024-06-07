@@ -44,17 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "c92e393b20cdd102",
-      "parent": 0,
-      "droppable": true,
-      "text": "基于eNSP的高校/企业无线WLAN网络规划设计-CSDN博客",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
