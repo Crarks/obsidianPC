@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ca0bfc5ff294cc89",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://blog.csdn.net/m0_46179473/article/details/136125401"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大三下/无线网络课设.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "大三下/无线网络课设.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "大三下/无线网络课设.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,13 +176,13 @@
       "media-extended:Open media": true
     }
   },
-  "active": "b1c1015643f4551e",
+  "active": "ca0bfc5ff294cc89",
   "lastOpenFiles": [
+    "大三下/无线网络课设.md",
     "大三下/2024-05-01.md",
     "每日随手/blender.md",
     "大三下/2024-04-24.md",
     "每日随手/机器学习应试版.md",
-    "大三下/无线网络课设.md",
     "大三下/sdn实验1.md",
     "begin with。。。/git.md",
     "大三下/机器学习.md",
