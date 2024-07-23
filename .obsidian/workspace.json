@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "37342d51d8a1de0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日随手/blender.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,24 +170,25 @@
       "media-extended:Open media": true
     }
   },
-  "active": "e9521b2646a1d178",
+  "active": "4e083523bbb5ac58",
   "lastOpenFiles": [
-    "README.md",
-    "未命名.canvas",
-    "待TBA(娱乐版.md",
-    "待TBA(学习版.md",
+    "每日随手/每日.md",
     "begin with。。。/obsidian.md",
-    "begin with。。。/markdown.md",
     "begin with。。。/git.md",
+    "下载安装配置/ob目录.md",
+    "test/test.md",
+    "待TBA(学习版.md",
+    "待TBA(娱乐版.md",
+    "未命名.canvas",
     "begin with。。。/碎碎念.md",
+    "begin with。。。/markdown.md",
+    "README.md",
     "正经学习/unity.md",
     "正经学习/算法.md",
     "正经学习/前端参考.md",
     "下载安装配置/vs目录.md",
-    "下载安装配置/ob目录.md",
     "下载安装配置/教学/java/tomcat.md",
     "每日随手/blender.md",
-    "每日随手/每日.md",
     "大三下/sdn实验1.md",
     "大三下/SDN.md",
     "大三下/云计算1.md",
