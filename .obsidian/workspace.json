@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "begin with。。。/markdown.md",
-                "mode": "source",
+                "file": "下载安装配置/ob目录.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "begin with。。。/markdown.md",
+                "file": "每日随手/每日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "begin with。。。/markdown.md",
+                "file": "每日随手/每日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "begin with。。。/markdown.md"
+                "file": "每日随手/每日.md"
               }
             }
           }
@@ -170,24 +169,25 @@
       "media-extended:Open media": true
     }
   },
-  "active": "37342d51d8a1de0d",
+  "active": "e9521b2646a1d178",
   "lastOpenFiles": [
+    "下载安装配置/ob目录.md",
+    "下载安装配置/教学/server/apache.md",
+    "下载安装配置/vs目录.md",
+    "begin with。。。/碎碎念.md",
+    "begin with。。。/git.md",
+    "begin with。。。/markdown.md",
     "begin with。。。/obsidian.md",
+    "test/test.md",
     "正经学习/前端参考.md",
     "待TBA(娱乐版.md",
-    "下载安装配置/ob目录.md",
     "每日随手/blender.md",
     "每日随手/每日.md",
-    "begin with。。。/git.md",
-    "test/test.md",
     "待TBA(学习版.md",
     "未命名.canvas",
-    "begin with。。。/碎碎念.md",
-    "begin with。。。/markdown.md",
     "README.md",
     "正经学习/unity.md",
     "正经学习/算法.md",
-    "下载安装配置/vs目录.md",
     "下载安装配置/教学/java/tomcat.md",
     "大三下/sdn实验1.md",
     "大三下/SDN.md",
@@ -198,7 +198,6 @@
     "大三下/2024-05-01.md",
     "大三下/2024-04-24.md",
     "每日随手/机器学习应试版.md",
-    "大三下/机器学习.md",
     "正经学习",
     "未命名 1.canvas",
     "屏幕截图 2024-03-17 185829.png",
