@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "30ce0f3e218eb936",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "37342d51d8a1de0d",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "e9521b2646a1d178",
+  "active": "30ce0f3e218eb936",
   "lastOpenFiles": [
     "下载安装配置/ob目录.md",
     "下载安装配置/教学/server/apache.md",
