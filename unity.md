@@ -9,6 +9,7 @@
 	+ 材质 material physicmaterial 
 	+ 物体的副本
 	+ fog window-rendering-light
+	+ collision detection 碰撞检测选项 project setting里time有一个fixed timestep （适用于频繁更新模型防止穿模吗emmmm？
 + 相机
 	 ```
 	public Transform player; // 获取玩家的transform值  
@@ -30,8 +31,15 @@
 	        {         collisionmove.enabled = false;}
 	  */}}
 	```
++ UI
+	+ text 更改字体
+		+ 相较于ui界面来说，游戏界面通常在左下角
+
 + tip
 	+ 坐标球 scene右键overlay menu
 	+ 
 + unity英语
+
++ idea
+	+ 物体行进过程中下落
 
