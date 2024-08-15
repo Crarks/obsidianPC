@@ -85,7 +85,7 @@ public class GameManager : MonoBehaviour{
 
 
 #### 8.15
-
++ 
 
 + idea
 	+ 物体行进过程中下落
