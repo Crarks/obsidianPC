@@ -32,14 +32,62 @@
 	  */}}
 	```
 + UI
-	+ text 更改字体
+	+ text 更改字体 canvas
 		+ 相较于ui界面来说，游戏界面通常在左下角
+```
+using UnityEngine.UI;
+public class score : MonoBehaviour
+{
+    public Transform player;//获取行进距离判断分数
+    public Text scoreText;
+    // Update is called once per frame
+    void Update()
+    {
+       scoreText.text = "z: " +  player.position.z.ToString("0");
+    }}
+```  
++ TMP
+			+ https://tieba.baidu.com/p/7625369037
 
 + tip
 	+ 坐标球 scene右键overlay menu
 	+ 
 + unity英语
 
+
+
+之后按照每日来记，连连摇头啊我
+#### 8.14
++ canvas 添加text，有text和tmp的区别，写在上面ui那里
++ 添加 结束endgame，先是创建了一个emptyobject，命名为gamemanager，以便可以在unity内部进行数值调用，然后分别在需要添加end的地方调用与gamemanager相关联的script，比方说物体碰撞scrpit，和物体运动script 运动超过范围时触发场景调用。
++ 关于调用，不建议在unity里拖动敖，用下面那个调用的语句互相调用敖。。。
+```
+using UnityEngine;
+using UnityEngine.SceneManagement;
+public class GameManager : MonoBehaviour{
+    bool gameHasEnded = false;
+    public float restartDelay = 3f;
+    public void EndGame(){
+        if (gameHasEnded == false)
+        {
+            gameHasEnded = true;
+             Debug.Log("Game Over");
+            Invoke("Restart", restartDelay);}
+    }
+   void Restart(){
+  SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+}
+//调用的语句  FindObjectOfType<GameManager>().EndGame();
+```
+
++ build setting 添加场景不知道干嘛的
+
+
+#### 8.15
+
+
 + idea
 	+ 物体行进过程中下落
+	+ 不拖组件怎么调用 https://ask.csdn.net/questions/7769320/53870024
 
