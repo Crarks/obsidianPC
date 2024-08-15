@@ -85,7 +85,8 @@ public class GameManager : MonoBehaviour{
 
 
 #### 8.15
-+ 
++ undo mesh renderer\
++ panel
 
 + idea
 	+ 物体行进过程中下落
