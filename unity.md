@@ -86,7 +86,8 @@ public class GameManager : MonoBehaviour{
 
 #### 8.15
 + undo mesh renderer\
-+ panel
++ panel 画布 下面单独加text
++ 找不到panel启动妈的好怪
 
 + idea
 	+ 物体行进过程中下落
