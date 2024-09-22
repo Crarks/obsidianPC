@@ -98,13 +98,31 @@ public class GameManager : MonoBehaviour{
 + 继续panel，panel是画布，适应屏幕
 + debug了一下endline，endline方块加了obstacle的tag导致和collision这个script冲突，导致画布不显示。然后panel要先设置为不显示，endline用到的函数OnTriggerEnter()要在属性碰撞里设置为is trigger
 ~~~
-public class endline : MonoBehaviour
-{public GameManager gameManager;
-    void OnTriggerEnter()
-    {
-        gameManager.CompleteLevel();
-    }
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
+public class LevelComplete : MonoBehaviour
+{
+    // 假设这个方法在某个事件（如玩家完成关卡）后被调用  
+    public void LoadNextLevel()
+    {
+        // 获取当前激活的场景的索引  
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+        // 尝试加载下一个场景。注意要检查索引是否超出了场景的总数  
+        int nextSceneIndex = currentSceneIndex + 1;
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            // 如果已经是最后一个场景，可以选择加载第一个场景或者做其他处理  
+            Debug.Log("已经是最后一个场景了！");
+            // 例如，加载第一个场景  
+            // SceneManager.LoadScene(0);  
+        }
+    }
 }
 ~~~
-+ window->animation，选中panel进入记录模式创建关键帧
++ window->animation，选中panel进入记录模式创建关键帧，并调用下一个场景（tip1 要在动画里引入panel下下一个场景调用的script项目 （tip1在构建里设置场景顺序
