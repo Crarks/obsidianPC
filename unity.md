@@ -94,5 +94,17 @@ public class GameManager : MonoBehaviour{
 	+ 不拖组件怎么调用 https://ask.csdn.net/questions/7769320/53870024
 
 #### 9.22
-+ 欸吗我这拖延症
++ 欸吗我这拖延症，什么开发日志，ddl日志了这属于
 + 继续panel，panel是画布，适应屏幕
++ debug了一下endline，endline方块加了obstacle的tag导致和collision这个script冲突，导致画布不显示。然后panel要先设置为不显示，endline用到的函数OnTriggerEnter()要在属性碰撞里设置为is trigger
+~~~
+public class endline : MonoBehaviour
+{public GameManager gameManager;
+    void OnTriggerEnter()
+    {
+        gameManager.CompleteLevel();
+    }
+
+}
+~~~
++ window->animation，选中panel进入记录模式创建关键帧
