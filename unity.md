@@ -85,7 +85,7 @@ public class GameManager : MonoBehaviour{
 
 
 #### 8.15
-+ undo mesh renderer\
++ undo mesh renderer  ，取消网格渲染-->空气墙
 + panel 画布 下面单独加text
 + 找不到panel启动妈的好怪
 
@@ -93,3 +93,6 @@ public class GameManager : MonoBehaviour{
 	+ 物体行进过程中下落
 	+ 不拖组件怎么调用 https://ask.csdn.net/questions/7769320/53870024
 
+#### 9.22
++ 欸吗我这拖延症
++ 继续panel，panel是画布，适应屏幕
