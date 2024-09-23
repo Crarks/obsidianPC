@@ -133,3 +133,5 @@ public class LevelComplete : MonoBehaviour
 + menu逻辑：新建的scene，再panel下做了button，script放在panel上，然后两个button的click引用panel，在选择其下function，这样不同button可以写在一个script
 + edit->project settings 可以在quality里设置游戏的渲染等级，player里设置游戏icon，鼠标，分辨率等
 + **导出有个问题欸** 他页面不是自适应emmm，要在研究一下
++ 还得多看看啊，面向对象的逻辑
++ [关于unity存储应该单独看一下](https://blog.csdn.net/xiaobao4106/article/details/138105663)
