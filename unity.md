@@ -126,3 +126,10 @@ public class LevelComplete : MonoBehaviour
 }
 ~~~
 + window->animation，选中panel进入记录模式创建关键帧，并调用下一个场景（tip1 要在动画里引入panel下下一个场景调用的script项目 （tip1在构建里设置场景顺序
+
+
+#### 9.23
++ 做个类似猫猫头的编辑器工具
++ menu逻辑：新建的scene，再panel下做了button，script放在panel上，然后两个button的click引用panel，在选择其下function，这样不同button可以写在一个script
++ edit->project settings 可以在quality里设置游戏的渲染等级，player里设置游戏icon，鼠标，分辨率等
++ **导出有个问题欸** 他页面不是自适应emmm，要在研究一下
