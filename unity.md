@@ -135,3 +135,4 @@ public class LevelComplete : MonoBehaviour
 + **导出有个问题欸** 他页面不是自适应emmm，要在研究一下
 + 还得多看看啊，面向对象的逻辑
 + [关于unity存储应该单独看一下](https://blog.csdn.net/xiaobao4106/article/details/138105663)
++ 热更
