@@ -16,7 +16,9 @@
                 "file": "unity.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "unity"
             }
           },
           {
@@ -28,7 +30,21 @@
                 "file": "游戏感念.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "游戏感念"
+            }
+          },
+          {
+            "id": "527b61c62bc6269a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -40,11 +56,13 @@
                 "file": "unity.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "unity"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -95,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
-              "state": {}
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
             }
           }
         ]
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "unity 的反向链接列表"
             }
           },
           {
@@ -135,10 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "unity 的出链列表"
             }
           },
           {
@@ -149,7 +179,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -158,8 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏感念.md"
-              }
+                "file": "unity.md"
+              },
+              "icon": "lucide-list",
+              "title": "unity 的大纲"
             }
           }
         ],
@@ -182,7 +216,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "3d5056d187ecfcba",
+  "active": "527b61c62bc6269a",
   "lastOpenFiles": [
     "unity.md",
     "游戏感念.md",
