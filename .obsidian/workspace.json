@@ -39,12 +39,14 @@
             "id": "527b61c62bc6269a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "begin with。。。/git.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "git"
             }
           },
           {
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity.md",
+                "file": "begin with。。。/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "unity 的反向链接列表"
+              "title": "git 的反向链接列表"
             }
           },
           {
@@ -163,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity.md",
+                "file": "begin with。。。/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "unity 的出链列表"
+              "title": "git 的出链列表"
             }
           },
           {
@@ -190,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity.md"
+                "file": "begin with。。。/git.md"
               },
               "icon": "lucide-list",
-              "title": "unity 的大纲"
+              "title": "git 的大纲"
             }
           }
         ],
@@ -218,8 +220,8 @@
   },
   "active": "527b61c62bc6269a",
   "lastOpenFiles": [
-    "unity.md",
     "游戏感念.md",
+    "unity.md",
     "毕设/TBA.md",
     "README.md",
     "待TBA(娱乐版.md",
