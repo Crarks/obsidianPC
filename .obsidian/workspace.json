@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "unity"
             }
-          },
-          {
-            "id": "3d5056d187ecfcba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏感念.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "游戏感念"
-            }
-          },
-          {
-            "id": "527b61c62bc6269a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unity.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity"
-            }
-          },
-          {
-            "id": "2c15d447904b89e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unity.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +175,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "527b61c62bc6269a",
+  "active": "6674c6df8284c6f4",
   "lastOpenFiles": [
     "游戏感念.md",
     "README.md",

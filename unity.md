@@ -138,4 +138,4 @@ public class LevelComplete : MonoBehaviour
 + 热更
 
 #### 9.23 
-+ 
++ projectsettings->input manager ,替换字符，比方说space在代码里可写jump
