@@ -139,3 +139,8 @@ public class LevelComplete : MonoBehaviour
 
 #### 9.23 
 + projectsettings->input manager ,替换字符，比方说space在代码里可写jump
+
+#### 10.22
++ ...
++ 昨天忘记mark了，一会儿写上面
++ spirit动画，png导入可以选择mulitple切割获取，filter过滤器mode选择point就看得清了
