@@ -144,3 +144,4 @@ public class LevelComplete : MonoBehaviour
 + ...
 + 昨天忘记mark了，一会儿写上面
 + spirit动画，png导入可以选择mulitple切割获取，filter过滤器mode选择point就看得清了
++ ALT+ENTER:一键提取并创建方法
