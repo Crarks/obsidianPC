@@ -144,4 +144,7 @@ public class LevelComplete : MonoBehaviour
 + ...
 + 昨天忘记mark了，一会儿写上面
 + spirit动画，png导入可以选择mulitple切割获取，filter过滤器mode选择point就看得清了
++ 动画链接：在player下建立了一个animation用于sprite renderer插件，对此插件建立多个animation，在animator里对不同animation建立transition，并添加parameters作为条件字段为transition建立condition。然后对主player scipit建立animation关联。（他代码写得超级舒服！！明天放上来！！
 + ALT+ENTER:一键提取并创建方法
++ 
+#### 10.23
