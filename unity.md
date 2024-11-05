@@ -148,3 +148,8 @@ public class LevelComplete : MonoBehaviour
 + ALT+ENTER:一键提取并创建方法
 + 
 #### 10.23
++ 视频少看20s，埋头复盘2h
++ flip翻转和layer创建地面检测，让其只跳一次
++ 
+
+#### 10.23
