@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "unity"
             }
+          },
+          {
+            "id": "273dce5d69285afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +204,12 @@
       "media-extended:Open media": true
     }
   },
-  "active": "986b22413a017120",
+  "active": "273dce5d69285afc",
   "lastOpenFiles": [
-    "游戏感念.md",
+    "未命名 1.md",
     "unity.md",
+    "未命名",
+    "游戏感念.md",
     "README.md",
     "未命名.md",
     "begin with。。。/git.md",
@@ -222,7 +238,6 @@
     "test/test.md",
     "下载安装配置/教学/java/tomcat.md",
     "大三下/sdn实验1.md",
-    "大三下/SDN.md",
     "正经学习",
     "屏幕截图 2024-03-17 185829.png",
     "大三下",
@@ -232,7 +247,6 @@
     "教学/前端",
     "教学",
     "下载安装配置/教学/前端",
-    "Excalidraw",
     "Pasted image 20231231133221.png",
     "begin with。。。/未命名.canvas"
   ]
