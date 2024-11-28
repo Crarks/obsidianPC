@@ -152,4 +152,5 @@ public class LevelComplete : MonoBehaviour
 + flip翻转和layer创建地面检测，让其只跳一次
 + 
 
-#### 10.23
+#### 11.28
++ 每日忏悔.jpg，北京挺好看的
