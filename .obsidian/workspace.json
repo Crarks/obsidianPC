@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "unity开发日记"
             }
+          },
+          {
+            "id": "9775a0f7d0d62fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/unity动画.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "unity动画"
+            }
           }
         ]
       }
@@ -178,8 +192,11 @@
   },
   "active": "97a13d7ca429a48d",
   "lastOpenFiles": [
-    "README.md",
+    "毕设/unity动画.md",
     "unity开发日记.md",
+    "游戏感念.md",
+    "README.md",
+    "毕设/TBA.md",
     "begin with。。。/obsidian.md",
     "begin with。。。/git.md",
     "begin with。。。/markdown.md",
@@ -187,15 +204,12 @@
     "test/test.md",
     "待TBA(娱乐版.md",
     "未命名.md",
-    "游戏感念.md",
-    "毕设/TBA.md",
     "每日随手/blender.md",
     "每日随手/unity界面.md",
     "每日随手/unity TBA.md",
     "下载安装配置/ob目录.md",
     "下载安装配置/vs目录.md",
     "待TBA(学习版.md",
-    "未命名 1.md",
     "未命名",
     "毕设",
     "未命名.canvas",

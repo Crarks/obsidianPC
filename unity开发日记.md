@@ -154,4 +154,5 @@ public class LevelComplete : MonoBehaviour
 
 #### 11.28
 + 每日忏悔.jpg，北京挺好看的
-+ 
++ 调整了一下character动态，movespeed和jumpforce调高，2d刚体的gravity scale调高，就能快速下落
++ 动画部分mark了一下，blendtree参数没搞明白
