@@ -149,8 +149,9 @@ public class LevelComplete : MonoBehaviour
 + 
 #### 10.23
 + 视频少看20s，埋头复盘2h
-+ flip翻转和layer创建地面检测，让其只跳一次
++ flip翻转和创建layermask地面图层用来检测，让其只跳一次
 + 
 
 #### 11.28
 + 每日忏悔.jpg，北京挺好看的
++ 
