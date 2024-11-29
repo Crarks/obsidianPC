@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "a01f773e0e78ca2e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "9775a0f7d0d62fa3",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "unity动画"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b12ad73e2e801180",
@@ -203,7 +189,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "a01f773e0e78ca2e",
+  "active": "97a13d7ca429a48d",
   "lastOpenFiles": [
     "毕设/unity动画.md",
     "unity开发日记.md",
