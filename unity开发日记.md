@@ -158,5 +158,5 @@ public class LevelComplete : MonoBehaviour
 + 动画部分mark了一下，blendtree参数没搞明白
 
 
-#### 11.29
+#### 11.30
 + 
