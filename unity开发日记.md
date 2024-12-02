@@ -176,3 +176,5 @@ public class LevelComplete : MonoBehaviour
         { rb.velocity = new Vector2(movespeed * xinput, rb.velocity.y);}
 
 ```
++ 动画结束添加事件，新建了script，拖入关联animtor，从父类script里调用了animationover；动画编辑界面新建event就好
++ ctrl r 和ctrl f

@@ -23,6 +23,10 @@ private void AnimatorControllers()
 
 +blend tree 混合树，emm就是链接两段动画，会自动生成一个blend parameters，具体参数还没搞明白，我不懂他那个对y轴正负判断是怎么判定的。。
 
++ 动画结束添加事件，新建了script，拖入关联animtor，从父类script里调用了animationover；动画编辑界面新建event就好
+
+
+
 
 + empty到橙色，橙色就是默认状态
 + 跳跃：anystate转换时，相当于isgrounded一直是false，取消can transition to itself，防止持续对自己转换导致卡在第一帧
