@@ -152,11 +152,13 @@ public class LevelComplete : MonoBehaviour
 + flip翻转和创建layermask地面图层用来检测，让其只跳一次
 + 
 
+
+[以下视频参考](https://www.bilibili.com/video/BV1cM4y1p7RF?spm_id_from=333.788.player.switch&vd_source=e10f51470a19ec8e4125b51b7fdb73bb&p=19)
 #### 11.28
 + 每日忏悔.jpg，北京挺好看的
 + 调整了一下character动态，movespeed和jumpforce调高，2d刚体的gravity scale调高，就能快速下落
 + 动画部分mark了一下，blendtree参数没搞明白
 
 
-#### 11.30
-+ 
+#### 12.2
++ 计时器
