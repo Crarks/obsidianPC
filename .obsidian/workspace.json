@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity开发日记.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity开发日记"
-            }
-          },
-          {
-            "id": "9775a0f7d0d62fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "毕设/unity动画.md",
                 "mode": "source",
                 "source": true
@@ -191,11 +177,11 @@
   },
   "active": "97a13d7ca429a48d",
   "lastOpenFiles": [
-    "毕设/unity动画.md",
+    "毕设/TBA.md",
     "unity开发日记.md",
+    "毕设/unity动画.md",
     "游戏感念.md",
     "README.md",
-    "毕设/TBA.md",
     "begin with。。。/obsidian.md",
     "begin with。。。/git.md",
     "begin with。。。/markdown.md",

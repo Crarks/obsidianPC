@@ -26,3 +26,4 @@ private void AnimatorControllers()
 
 + empty到橙色，橙色就是默认状态
 + 跳跃：anystate转换时，相当于isgrounded一直是false，取消can transition to itself，防止持续对自己转换导致卡在第一帧
++ 一般can transition to itself，durationtiome，hasexittime设置为0
