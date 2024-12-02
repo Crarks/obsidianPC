@@ -161,4 +161,20 @@ public class LevelComplete : MonoBehaviour
 
 
 #### 12.2
-+ 计时器
++  冲刺时间 ：就是输入按键后，用dashtime和dashduration两个数来计时，duration设置冲刺的时间，time用来减减充当计时器，然后用dashspeed设置冲刺时的速度
+```
+        if (Input.GetKeyDown(KeyCode.LeftShift)|| Input.GetMouseButtonDown(1))
+        {//鼠标右键
+            dashTime = dashDuration; }
+        if (dashTime > 0 )
+        {
+            dashTime -= Time.deltaTime; }
+----------------------------------------------------------------------------
+        if(dashTime > 0)
+        {
+            rb.velocity = new Vector2(movespeed * dashSpeed, rb.velocity.y);}
+        else
+        {
+            rb.velocity = new Vector2(movespeed * xinput, rb.velocity.y);}
+
+```
