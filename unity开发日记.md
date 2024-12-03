@@ -183,4 +183,6 @@ public class LevelComplete : MonoBehaviour
 + #### 12.3
 + 先把骨骼和反向动力学看一下
 + psb图层，png单张
-+ 
+
+#### 12.4
++ 继续看unity那个，顺便把小蜘蛛那个代码看一下
