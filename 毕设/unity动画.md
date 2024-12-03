@@ -31,3 +31,11 @@ private void AnimatorControllers()
 + empty到橙色，橙色就是默认状态
 + 跳跃：anystate转换时，相当于isgrounded一直是false，取消can transition to itself，防止持续对自己转换导致卡在第一帧
 + 一般can transition to itself，durationtiome，hasexittime设置为0
+
+
+### 骨骼绑定和反向动力学
++ 创建ik2dmanager后是按照当前componet的父辈去选择点的，
++ 两个chain无法选中尾端点，强行引用的化会导致无法旋转，这时候解决的话可以再在末端创建一个小骨骼，
++ ccd不改变骨骼关节方向，fabrik改变了谷歌方向，limb相当于简洁版
++ 我悟了，chain是应用于多个点，点少的时候就会有僵硬的情况，所以点少请用imb：）
++ limb需要
