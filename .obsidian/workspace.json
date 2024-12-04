@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "游戏感念"
             }
+          },
+          {
+            "id": "56e3e65fd1b10562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一些rainworld参考工程.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "一些rainworld参考工程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +190,11 @@
       "media-extended:Open media": true
     }
   },
-  "active": "97a13d7ca429a48d",
+  "active": "56e3e65fd1b10562",
   "lastOpenFiles": [
-    "unity开发日记.md",
     "游戏感念.md",
+    "一些rainworld参考工程.md",
+    "unity开发日记.md",
     "毕设/unity动画.md",
     "毕设/TBA.md",
     "README.md",
@@ -208,7 +224,6 @@
     "下载安装配置/教学/vscode/插件.md",
     "下载安装配置/教学/前端/nodejs.md",
     "下载安装配置/教学/java/tomcat.md",
-    "大三下/sdn实验1.md",
     "正经学习",
     "屏幕截图 2024-03-17 185829.png",
     "大三下",
