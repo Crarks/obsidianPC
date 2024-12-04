@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity开发日记.md",
+                "file": "游戏感念.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unity开发日记"
+              "title": "游戏感念"
             }
           }
         ]
@@ -177,9 +177,9 @@
   },
   "active": "97a13d7ca429a48d",
   "lastOpenFiles": [
+    "unity开发日记.md",
     "游戏感念.md",
     "毕设/unity动画.md",
-    "unity开发日记.md",
     "毕设/TBA.md",
     "README.md",
     "begin with。。。/obsidian.md",
