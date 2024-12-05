@@ -188,4 +188,23 @@ public class LevelComplete : MonoBehaviour
 + 继续看unity那个，顺便把小蜘蛛那个代码看一下
 
 #### 12.5
-+ virtual是虚拟的意思，表示虚函数父类的函数会被子类继承，假如这个函数不符合子类的要求，需要重写，必须使父类的这个函数为虚函数；否则会有重复定义的错误
++ 继承 inheritance
+```
+父类文件名entity
+//procected 这是一个访问修饰符，子类和派生类可见，其他不可见
+//virtual 这意味着它可以在派生类中被重写（override）
+//override：这个关键字表示当前的方法重写了基类中的一个方法
+    protected virtual void Update()
+    {
+        GroundCollisionChecks();
+    }
+-------------------------------------------------------------
+public class player : Entity{
+...
+    protected override void Start()
+    {//protected：这是一个访问修饰符，表示这个方法只能在当前类或者派生类中被访问
+     //override：这个关键字表示当前的方法重写了基类中的一个方法
+        base.Start();//调用基类
+    }
+}
+```
