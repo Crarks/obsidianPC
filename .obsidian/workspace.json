@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity开发日记.md",
+                "file": "游戏感念.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unity开发日记"
+              "title": "游戏感念"
             }
           }
         ],
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b12ad73e2e801180",
@@ -193,12 +192,12 @@
   },
   "active": "56e3e65fd1b10562",
   "lastOpenFiles": [
-    "游戏感念.md",
     "unity开发日记.md",
+    "README.md",
+    "游戏感念.md",
     "一些rainworld参考工程.md",
     "毕设/unity动画.md",
     "毕设/TBA.md",
-    "README.md",
     "begin with。。。/obsidian.md",
     "begin with。。。/git.md",
     "begin with。。。/markdown.md",
