@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity开发日记.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏感念"
+              "title": "unity开发日记"
             }
           }
         ],
@@ -192,9 +192,10 @@
   },
   "active": "56e3e65fd1b10562",
   "lastOpenFiles": [
+    "每日随手/blender.md",
     "unity开发日记.md",
-    "README.md",
     "游戏感念.md",
+    "README.md",
     "一些rainworld参考工程.md",
     "毕设/unity动画.md",
     "毕设/TBA.md",
@@ -205,7 +206,6 @@
     "test/test.md",
     "待TBA(娱乐版.md",
     "未命名.md",
-    "每日随手/blender.md",
     "每日随手/unity界面.md",
     "每日随手/unity TBA.md",
     "下载安装配置/ob目录.md",

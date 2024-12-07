@@ -208,3 +208,18 @@ public class player : Entity{
     }
 }
 ```
+
+#### 12.6
++ 嗯嗯嗯封装继承多态嗯嗯嗯
++ 这个gizmos的射线很有意思,这里做了一个play检测，有点意思，之后可以研究一下
+```
+ private RaycastHit2D isPlayerDetected;//此射线用于检测位于射线路径上的对象
+isPlayerDetected = Physics2D.Raycast(transform.position, Vector2.right, playerCheckDistance * facingdirection, whatIsPlayer);
+
+图像看
+Gizmos.DrawLine(transform.position, new Vector3(transform.position.x+playerCheckDistance*facingdirection,transform.position.y));
+```
+
+#### 12.7
++ 要学习的话，每日过数据结构，明天继续看数据库和c的string，那个blender和动画化程序pcb吗是叫也可以啊看起来了
++ 
