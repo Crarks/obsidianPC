@@ -223,7 +223,3 @@ Gizmos.DrawLine(transform.position, new Vector3(transform.position.x+playerCheck
 #### 12.7
 + 要学习的话，每日过数据结构，明天继续看数据库和c的string，那个blender和动画化程序pcb吗是叫也可以啊看起来了
 
-#### 12.8
-+ 状态机
-+ alt+enter是个好东西
-+ MonoBehaviour 只有继承自这个类的脚本，才有这些生命周期事件
