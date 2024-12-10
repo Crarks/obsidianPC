@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
     }
 }
 ```
-+ playststemachine，像是用来初始化的状态转换控制文件
++ playststemachine，用来初始化和状态转换控制文件，多态，实际上状态转换时是这么调用的->stateMachine.ChangeState(player.moveState)。player.movestate传入的其实是在player文件awake里定义的playeridlestate，所以当他传递进去的时候，实际上先调用的是playeridlestate里的exit方法，再根据base继承到playstate里完成
 ```
 public class PlayerStateMachine 
 {
@@ -42,7 +42,7 @@ public class PlayerStateMachine
     }
 }
 ```
-+ playerstate 具体状态执行
++ playerstate 具体状态执行，三个this，实际上跑的时候（看player）是没有调用到playerstate，是子类比如playeridlestate继承了父类，所以用this确认当前子类
 ```
 public class PlayerState
 {
@@ -68,8 +68,8 @@ public class PlayerState
 
 + #### 12.10
 +  crtl+d复制当前行 alt+上下将当前行上下移动
-+ 关于animation的逻辑，wc有点妙,真的吧面向对象发挥到极致
-```看9号那个play而的awake，把idle对new的两个对象进行了赋值
-	看9号的playerstate，s'n
++ 关于animation的逻辑，(每日bb：wc有点妙,真的吧面向对象发挥到极致，面向对象就在于封装继承多态，像player像是调用playidlestate，但实际上功能实现是在父类，就是继承和封装，然后在playstatemachine里的调用用到了多态！
+```看9号那个player的awake和playerstate的awake，在player里对new的两个对象进行了赋值，然后在里用子类向上继承方法，playerstate只起到一个当前类的继承作用，很面向对象，单看代码不觉得，真的写起逻辑就是每个干每个的事儿
+	
 
 ```
