@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity开发日记2.md",
+                "file": "毕设/pcd程序化动画procedural animation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unity开发日记2"
+              "title": "pcd程序化动画procedural animation"
             }
           }
         ],
@@ -220,8 +220,9 @@
   },
   "active": "cc5ea613c1caf1af",
   "lastOpenFiles": [
-    "毕设/unity开发日记1.md",
     "unity开发日记2.md",
+    "毕设/pcd程序化动画procedural animation.md",
+    "毕设/unity开发日记1.md",
     "每日随手/每日QA.md",
     "毕设/unity界面.md",
     "每日随手/unity TBA.md",
@@ -229,7 +230,6 @@
     "README.md",
     "TBA.md",
     "待TBA(娱乐版.md",
-    "毕设/pcd程序化动画.md",
     "毕设/unity动画.md",
     "毕设/一些rainworld参考工程.md",
     "begin with。。。/obsidian.md",
