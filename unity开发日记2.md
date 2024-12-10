@@ -64,4 +64,12 @@ public class PlayerState
 ```
 + alt+enter是个好东西
 + MonoBehaviour 只有继承自这个类的脚本，才有这些生命周期事件https://blog.csdn.net/weixin_45961836/article/details/134712845
-+ 
+
+
++ #### 12.10
++  crtl+d复制当前行 alt+上下将当前行上下移动
++ 关于animation的逻辑，wc有点妙,真的吧面向对象发挥到极致
+```看9号那个play而的awake，把idle对new的两个对象进行了赋值
+	看9号的playerstate，s'n
+
+```

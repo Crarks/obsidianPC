@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "74fc7f74cdf44214",
+        "id": "b3e3b2fb5a2da727",
         "type": "tabs",
         "children": [
           {
-            "id": "97a13d7ca429a48d",
+            "id": "cff6224cff37f643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity开发日记2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏感念"
-            }
-          },
-          {
-            "id": "56e3e65fd1b10562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设/unity动画.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity动画"
-            }
-          },
-          {
-            "id": "4c3702cdf949c240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设/unity开发日记1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity开发日记1"
-            }
-          },
-          {
-            "id": "cc5ea613c1caf1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设/unity动画.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "unity动画"
-            }
-          },
-          {
-            "id": "1e7400a3ec12833e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕设/有限状态机(Finite State Machine, FSM).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "有限状态机(Finite State Machine, FSM)"
+              "title": "unity开发日记2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,13 +175,13 @@
       "media-extended:Open media": true
     }
   },
-  "active": "4e083523bbb5ac58",
+  "active": "cff6224cff37f643",
   "lastOpenFiles": [
     "毕设/unity动画.md",
+    "毕设/unity开发日记1.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
     "unity开发日记2.md",
     "毕设/pcd程序化动画procedural animation.md",
-    "毕设/unity开发日记1.md",
     "每日随手/每日QA.md",
     "毕设/unity界面.md",
     "每日随手/unity TBA.md",
