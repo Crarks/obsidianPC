@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设/pcd程序化动画procedural animation.md",
+                "file": "毕设/unity动画.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pcd程序化动画procedural animation"
+              "title": "unity动画"
+            }
+          },
+          {
+            "id": "1e7400a3ec12833e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/有限状态机(Finite State Machine, FSM).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "有限状态机(Finite State Machine, FSM)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,8 +232,10 @@
       "media-extended:Open media": true
     }
   },
-  "active": "cc5ea613c1caf1af",
+  "active": "4e083523bbb5ac58",
   "lastOpenFiles": [
+    "毕设/unity动画.md",
+    "毕设/有限状态机(Finite State Machine, FSM).md",
     "unity开发日记2.md",
     "毕设/pcd程序化动画procedural animation.md",
     "毕设/unity开发日记1.md",
@@ -230,7 +246,6 @@
     "README.md",
     "TBA.md",
     "待TBA(娱乐版.md",
-    "毕设/unity动画.md",
     "毕设/一些rainworld参考工程.md",
     "begin with。。。/obsidian.md",
     "begin with。。。/git.md",
@@ -251,7 +266,6 @@
     "正经学习/前端参考.md",
     "下载安装配置/教学/server/apache.md",
     "下载安装配置/教学/vscode/插件.md",
-    "下载安装配置/教学/前端/nodejs.md",
     "正经学习",
     "屏幕截图 2024-03-17 185829.png",
     "大三下",
