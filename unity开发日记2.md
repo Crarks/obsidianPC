@@ -66,10 +66,18 @@ public class PlayerState
 + MonoBehaviour 只有继承自这个类的脚本，才有这些生命周期事件https://blog.csdn.net/weixin_45961836/article/details/134712845
 
 
-+ #### 12.10
+#### 12.10
 +  crtl+d复制当前行 alt+上下将当前行上下移动
 + 关于animation的逻辑，(每日bb：wc有点妙,真的吧面向对象发挥到极致，面向对象就在于封装继承多态，像player像是调用playidlestate，但实际上功能实现是在父类，就是继承和封装，然后在playstatemachine里的调用用到了多态！
 ```看9号那个player的awake和playerstate的awake，在player里对new的两个对象进行了赋值，然后在里用子类向上继承方法，playerstate只起到一个当前类的继承作用，很面向对象，单看代码不觉得，真的写起逻辑就是每个干每个的事儿
-	
-
+playstate文件
+	    public virtual void Enter() 
+    { player.anim.SetBool(animBoolName, true);}
+        public virtual void Exit() 
+    {    player.anim.SetBool(animBoolName, false);}
 ```
++ rigidbody掉了一下collision和interpolate俩个值
++ 、#region是一个分块预处理命令，它主要用于编辑代码的分段，在编译时会被自动删除
+
+#### 12.10
++ https://docs.unity3d.com/cn/2023.2/Manual/VectorCookbook.html
