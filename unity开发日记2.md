@@ -82,3 +82,4 @@ playstate文件
 #### 12.10
 + rigibody 更像是物体本身属性，包括运动旋转velocity这样的，所以setvelociy这样的给rb赋值的直接写在player
 + player像是接口层，对外输出以及rigidbody这些component以及总体的调用，然后对于playeridlestate这样的就像是对象，个人以为playeridlestate这样的继承的，尽量引用数据都在playerstate父类里定义
++ 累了，记得添加layer和has exit time取消
