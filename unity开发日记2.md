@@ -85,4 +85,12 @@ playstate文件
 + 累了，记得添加layer和has exit time取消
 
 #### 12.13
-+ 细细一看，bug还挺多的，jump和air这俩状态很奇怪，然后上面应该再加一个空中状态，检测起跳时是否有输入，然后原地起跳后就不会像个柱子一样
++ 细细一看，bug还挺多的，jump和air这俩状态很奇怪，然后上面应该再加一个空中状态，检测起跳时是否有输入，然后原地起跳后就不会像个柱子一样:(，总之还要做很多优化。
++ 刚说有问题他就解决了，到时候在air和jump的父里加上这个
++ if (xInput != 0)
+        {
+            player.SetVelocity(player.moveSpeed * xInput * .8f, rb.velocity.y);
+
+        }
++        xInput = Input.GetAxisRaw("Horizontal");
+        yInput = Input.GetAxisRaw("Vertical");
