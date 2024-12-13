@@ -94,3 +94,12 @@ playstate文件
         }
 +        xInput = Input.GetAxisRaw("Horizontal");
         yInput = Input.GetAxisRaw("Vertical");
+
++ 这个状态机的运行状态还不是搞得很明白
+```滑墙切跳墙不加return会被下面的if语句打断，怎么个事儿
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            stateMachine.ChangeState(player.wallJumpState);
+            return;
+        }
+```
