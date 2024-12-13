@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity开发日记2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏感念"
+              "title": "unity开发日记2"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "cff6224cff37f643",
   "lastOpenFiles": [
+    "游戏感念.md",
     "unity开发日记2.md",
     "毕设/unity开发日记1.md",
     "毕设/unity动画.md",
@@ -185,7 +186,6 @@
     "每日随手/每日QA.md",
     "毕设/unity界面.md",
     "每日随手/unity TBA.md",
-    "游戏感念.md",
     "README.md",
     "TBA.md",
     "待TBA(娱乐版.md",
