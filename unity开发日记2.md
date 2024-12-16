@@ -107,4 +107,17 @@ playstate文件
 #### 12.16
 + 14号考6级，昨天给学弟配idea
 + 上次attack的实现，先是动画，在playerstate里设置了trigger，通过trigger的触发判断attack的状态与动画切换
-+ 好奇怪，这个move状态和attack叠加了
++ 好奇怪，这个move状态和attack叠加了，这个是unity与运行的问题吗emmmmmm
++ 问题就是grounded里状态调用了attack之后，会回到move，重新把值赋成了move
+```move里的顺序先修改一下，要不然base出来之后会把velocity改掉，巨tm奇怪捏吗，可能是attack攻击条件退出切换的问题吗？？？？？
+    暂时这样改了
+    public override void Update()
+    {        
+        player.SetVelocity(xInput*player.moveSpeed, rb.velocity.y);
+        base.Update();
+        if (xInput == 0 )
+            stateMachine.ChangeState(player.idleState);
+        
+    }
+```
++ 哈哈，破案了，是我zerovelocity没赋值给rb：）
