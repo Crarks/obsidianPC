@@ -107,4 +107,4 @@ playstate文件
 #### 12.16
 + 14号考6级，昨天给学弟配idea
 + 上次attack的实现，先是动画，在playerstate里设置了trigger，通过trigger的触发判断attack的状态与动画切换
-+ 
++ 好奇怪，这个move状态和attack叠加了
