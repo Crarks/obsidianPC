@@ -121,3 +121,9 @@ playstate文件
     }
 ```
 + 哈哈，破案了，是我zerovelocity没赋值给rb：）
+
+
+#### 12.17
++ 我去这个tilemap好高级
++ 我的锅，这个virtualcarmea也好好用哈哈哈哈，然后这个相机运动轨迹不知道能不能参考一下
++ sorting layer
