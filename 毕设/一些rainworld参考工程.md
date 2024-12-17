@@ -3,3 +3,4 @@
 + 一个topic楼 https://devforum.roblox.com/t/how-would-i-go-along-making-a-character-like-rainworld/3141904
 + 雨世界的动作应该是程序化动画, 骨骼蒙皮 + 反向动力学, 可能还要处理碰撞.这块需要一些物理方面的知识.
 + 关键词recreating rainworld
++ 雨世界水面https://www.youtube.com/watch?v=69sBjqMtZCc&t=13s
