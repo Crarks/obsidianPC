@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e3b2fb5a2da727",
+        "id": "1dfa545af3498a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "cff6224cff37f643",
+            "id": "c793f24b88d323fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/unity动画.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "unity动画"
+            }
+          },
+          {
+            "id": "82f96793f736f067",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "每日QA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,19 +190,25 @@
       "media-extended:Open media": true
     }
   },
-  "active": "cff6224cff37f643",
+  "active": "82f96793f736f067",
   "lastOpenFiles": [
-    "毕设/unity界面.md",
-    "毕设/unity开发日记1.md",
-    "待TBA(学习版.md",
-    "待TBA(娱乐版.md",
+    "unity功能TBA.md",
+    "毕设/unity动画.md",
     "README.md",
-    "游戏感念.md",
+    "unity开发日记2.md",
     "毕设/一些rainworld参考工程.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
-    "unity开发日记2.md",
-    "毕设/unity动画.md",
     "毕设/pcd程序化动画procedural animation.md",
+    "毕设/unity开发日记1.md",
+    "毕设/unity界面.md",
+    "游戏感念.md",
+    "待TBA(娱乐版.md",
+    "待TBA(学习版.md",
+    "bledner/Pasted image 20241216231420.png",
+    "bledner/blender.md",
+    "bledner",
+    "正经学习/前端参考.md",
+    "正经学习/算法.md",
     "每日随手/每日QA.md",
     "每日随手/unity TBA.md",
     "TBA.md",
@@ -198,17 +219,12 @@
     "test/test.md",
     "下载安装配置/ob目录.md",
     "下载安装配置/vs目录.md",
-    "未命名",
     "毕设",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "正经学习/unity.md",
-    "正经学习/算法.md",
-    "正经学习/前端参考.md",
-    "下载安装配置/教学/server/apache.md",
-    "下载安装配置/教学/vscode/插件.md",
     "正经学习",
     "屏幕截图 2024-03-17 185829.png",
     "大三下",
