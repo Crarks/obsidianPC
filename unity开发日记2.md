@@ -127,3 +127,8 @@ playstate文件
 + 我去这个tilemap好高级
 + 我的锅，这个virtualcarmea也好好用哈哈哈哈，然后这个相机运动轨迹不知道能不能参考一下
 + sorting layer
++ 这个视差滚动背景效果（Parallax Scrolling Background）还需要优化，我还想做一下那个泰拉瑞亚的地形切换
++ 
+
+#### 12.18
++ 把背景的代码和流程过一下奥
