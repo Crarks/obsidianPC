@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设/一些rainworld参考工程.md",
+                "file": "毕设/unity动画.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "一些rainworld参考工程"
+              "title": "unity动画"
             }
           },
           {
@@ -189,16 +189,17 @@
       "media-extended:Open media": true
     }
   },
-  "active": "c793f24b88d323fb",
+  "active": "4e083523bbb5ac58",
   "lastOpenFiles": [
-    "毕设/有限状态机(Finite State Machine, FSM).md",
+    "未命名",
+    "毕设/unity开发日记1.md",
+    "unity开发日记2.md",
     "毕设/一些rainworld参考工程.md",
+    "毕设/有限状态机(Finite State Machine, FSM).md",
     "游戏感念.md",
     "毕设/unity动画.md",
     "毕设/pcd程序化动画procedural animation.md",
     "毕设/unity界面.md",
-    "毕设/unity开发日记1.md",
-    "unity开发日记2.md",
     "每日随手/每日QA.md",
     "unity功能TBA.md",
     "README.md",
@@ -223,7 +224,6 @@
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "正经学习/unity.md",
     "正经学习",
     "屏幕截图 2024-03-17 185829.png",
     "大三下",
