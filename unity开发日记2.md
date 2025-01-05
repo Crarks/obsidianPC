@@ -147,5 +147,5 @@ playstate文件
 
 #### 2025.1.5
 + 好久没写代码晕了
-+ 看一下那个enemybase是啥东西，确实好奇怪，两个在skeleton里都是this有啥区分的必要奥
++ 看一下那个enemybase是啥东西，确实好奇怪，两个在skeleton里都是this有啥区分的必要奥,还有那个private也很奇怪
 + 
