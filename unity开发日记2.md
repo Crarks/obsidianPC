@@ -155,7 +155,15 @@ playstate文件
 + 昨天几个没搞明白的逻辑 
 	+ enemy里的攻击距离射线怎么画的很奇怪
 	+ skeleton继承重构的时候为什么要再加一个enemybase，enemystate里都没有
-
+    private void AttackTrigger()
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(enemy.attackCheck.position, enemy.attackCheckRadius);
+        foreach (var hit in colliders)
+        {
+            if (hit.GetComponent<Enemy>() != null)
+                hit.GetComponent<Enemy>().Damage();
+        }
+    }
 #### 1.7
 + enemy的状态机理一下
 + 没做背后检测
