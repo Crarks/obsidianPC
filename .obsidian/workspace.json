@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity开发日记2.md",
+                "file": "游戏感念.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unity开发日记2"
+              "title": "游戏感念"
             }
           },
           {
@@ -192,13 +192,13 @@
   "active": "c793f24b88d323fb",
   "lastOpenFiles": [
     "unity功能TBA.md",
+    "游戏感念.md",
+    "unity开发日记2.md",
     "毕设/unity动画.md",
     "未命名",
     "毕设/unity开发日记1.md",
-    "unity开发日记2.md",
     "毕设/一些rainworld参考工程.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
-    "游戏感念.md",
     "毕设/pcd程序化动画procedural animation.md",
     "毕设/unity界面.md",
     "每日随手/每日QA.md",
