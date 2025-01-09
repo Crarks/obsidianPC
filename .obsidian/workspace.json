@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏感念.md",
+                "file": "unity开发日记2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏感念"
+              "title": "unity开发日记2"
             }
           },
           {
@@ -191,8 +191,8 @@
   },
   "active": "c793f24b88d323fb",
   "lastOpenFiles": [
-    "unity功能TBA.md",
     "游戏感念.md",
+    "unity功能TBA.md",
     "unity开发日记2.md",
     "毕设/unity动画.md",
     "未命名",
