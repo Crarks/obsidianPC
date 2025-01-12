@@ -160,11 +160,12 @@ playstate文件
 + 没做背后检测
 + enemy的状态机理一下
 + ENTITY FX和damage逻辑和实现
-+ https://blog.csdn.net/qq_42399932/article/details/140878106
 
 #### 1.8
 + 归纳一下，修一下bug
 
 #### 1.9
 + 8号奇怪的消失了
-+ entityfx特效
++ IEnumerator https://blog.csdn.net/weixin_45961836/article/details/137632412
+#### 1.10
++ damage相关，该学代码了qaq
