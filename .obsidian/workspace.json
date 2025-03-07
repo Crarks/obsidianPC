@@ -25,12 +25,14 @@
             "id": "3e31d9a2da3aab9c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "unity开发日记2.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "unity开发日记2"
             }
           },
           {
@@ -205,12 +207,12 @@
   },
   "active": "3e31d9a2da3aab9c",
   "lastOpenFiles": [
+    "毕设/unity开发日记1.md",
     "游戏感念.md",
     "unity功能TBA.md",
     "unity开发日记2.md",
     "毕设/unity动画.md",
     "未命名",
-    "毕设/unity开发日记1.md",
     "毕设/一些rainworld参考工程.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
     "毕设/pcd程序化动画procedural animation.md",

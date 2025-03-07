@@ -223,3 +223,5 @@ Gizmos.DrawLine(transform.position, new Vector3(transform.position.x+playerCheck
 #### 12.7
 + 要学习的话，每日过数据结构，明天继续看数据库和c的string，那个blender和动画化程序pcb吗是叫也可以啊看起来了
 
+
+
