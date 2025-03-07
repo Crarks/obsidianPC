@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "3e31d9a2da3aab9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "82f96793f736f067",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "游戏感念"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -189,7 +203,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "c793f24b88d323fb",
+  "active": "3e31d9a2da3aab9c",
   "lastOpenFiles": [
     "游戏感念.md",
     "unity功能TBA.md",
