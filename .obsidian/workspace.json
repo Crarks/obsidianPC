@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "a39d5788f5f1a667",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "82f96793f736f067",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
       "media-extended:Open media": true
     }
   },
-  "active": "3e31d9a2da3aab9c",
+  "active": "a39d5788f5f1a667",
   "lastOpenFiles": [
     "毕设/unity开发日记1.md",
     "游戏感念.md",
