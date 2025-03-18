@@ -50,21 +50,59 @@
             }
           },
           {
+            "id": "99e40900968b4911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "梦核西幻开发日志.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "梦核西幻开发日志"
+            }
+          },
+          {
+            "id": "019ef0fb4d9c8c01",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/Obsidian-1.8.9.exe"
+              },
+              "icon": "lucide-file",
+              "title": "Download - Obsidian"
+            }
+          },
+          {
             "id": "82f96793f736f067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏感念.md",
+                "file": "梦核西幻开发日志.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "游戏感念"
+              "title": "梦核西幻开发日志"
+            }
+          },
+          {
+            "id": "7d4503379a1d2e84",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/Obsidian-1.8.9.exe"
+              },
+              "icon": "lucide-file",
+              "title": "Download - Obsidian"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -219,15 +257,16 @@
       "media-extended:Open media": true
     }
   },
-  "active": "a39d5788f5f1a667",
+  "active": "82f96793f736f067",
   "lastOpenFiles": [
+    "游戏感念.md",
+    "梦核西幻开发日志.md",
+    "unity开发日记2.md",
     "毕设/unity界面.md",
     "毕设/unity动画.md",
     "毕设/pcd程序化动画procedural animation.md",
     "毕设/unity开发日记1.md",
-    "游戏感念.md",
     "unity功能TBA.md",
-    "unity开发日记2.md",
     "未命名",
     "毕设/一些rainworld参考工程.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
