@@ -90,6 +90,20 @@
             }
           },
           {
+            "id": "4ba8822ca58a974c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity shader入门精要.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "unity shader入门精要"
+            }
+          },
+          {
             "id": "7d4503379a1d2e84",
             "type": "leaf",
             "state": {
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,8 +271,10 @@
       "media-extended:Open media": true
     }
   },
-  "active": "82f96793f736f067",
+  "active": "4ba8822ca58a974c",
   "lastOpenFiles": [
+    "unity功能TBA.md",
+    "unity shader入门精要.md",
     "梦核西幻开发日志.md",
     "游戏感念.md",
     "unity开发日记2.md",
@@ -266,7 +282,6 @@
     "毕设/unity动画.md",
     "毕设/pcd程序化动画procedural animation.md",
     "毕设/unity开发日记1.md",
-    "unity功能TBA.md",
     "未命名",
     "毕设/一些rainworld参考工程.md",
     "毕设/有限状态机(Finite State Machine, FSM).md",
@@ -287,7 +302,6 @@
     "begin with。。。/碎碎念.md",
     "test/test.md",
     "下载安装配置/ob目录.md",
-    "下载安装配置/vs目录.md",
     "毕设",
     "未命名.canvas",
     "未命名 1.canvas",
